@@ -4,7 +4,7 @@
 
 <instance-profile id="elj"
                  name="English Language Journey"
-                 start-page="starter-topic.md">
+                 start-page="index.md">
 
-    <toc-element topic="starter-topic.md"/>
+    <toc-element topic="index.md"/>
 </instance-profile>
