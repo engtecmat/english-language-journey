@@ -11,7 +11,7 @@ permissions:
 
 env:
   INSTANCE: 'Writerside/elj'
-  ARTIFACT: 'ELJ-all.zip'
+  ARTIFACT: 'webHelpELJ-all.zip'
   DOCKER_VERSION: '241.15989'
 
 jobs:
