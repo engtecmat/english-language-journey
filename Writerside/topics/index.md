@@ -158,3 +158,5 @@ Group</emphasis> is its object.
 - [Verb](https://en.wikipedia.org/wiki/Verb)
 - [Subjunctive Mood](https://en.wikipedia.org/wiki/Subjunctive_mood)
 - [Complement](https://en.wikipedia.org/wiki/Complement_(linguistics))
+- [Part of Speech](https://en.wikipedia.org/wiki/Part_of_speech)
+- [Syntax](https://en.wikipedia.org/wiki/Syntax)
