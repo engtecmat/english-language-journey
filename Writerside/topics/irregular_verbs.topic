@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Irregular Verbs" id="irregular_verbs" help-id="Empty-XML-Topic">
+
+    <table>
+        <tr>
+            <td>Base Form</td>
+            <td>Past Form</td>
+            <td>Present Participle</td>
+            <td>Past Participle</td>
+        </tr>
+        <tr>
+            <td>arise</td>
+            <td>arose</td>
+            <td>arising</td>
+            <td>arisen</td>
+        </tr>
+    </table>
+</topic>

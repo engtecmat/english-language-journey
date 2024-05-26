@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE instance-profile
-        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+<!DOCTYPE instance-profile SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="elj"
-                 name="English Language Journey"
-                 start-page="index.md">
-
-    <toc-element topic="index.md"/>
+<instance-profile id="elj" name="English Language Journey" start-page="index.md">
+    <toc-element topic="index.md">
+        <toc-element topic="irregular_verbs.topic"/>
+    </toc-element>
 </instance-profile>
