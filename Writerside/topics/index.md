@@ -7,6 +7,10 @@ in a sentence. Adverbial phrases provide additional information about how, when,
 what conditions something happens. They can be made up of adverbs along with other words like prepositions, articles,
 and nouns.
 
+## Noun
+
+The terms mass noun, uncountable noun, non-count noun, uncount noun, and uncountable are the primary ones used to refer to nouns that cannot be counted individually.
+
 ## Participial Phrase
 
 A participial phrase begins with a present or past participle and includes objects, modifiers, or other complements.
@@ -158,5 +162,7 @@ Group</emphasis> is its object.
 - [Verb](https://en.wikipedia.org/wiki/Verb)
 - [Subjunctive Mood](https://en.wikipedia.org/wiki/Subjunctive_mood)
 - [Complement](https://en.wikipedia.org/wiki/Complement_(linguistics))
+- [Mass Noun](https://en.wikipedia.org/wiki/Mass_noun)
+- [Noun](https://en.wikipedia.org/wiki/Noun)
 - [Part of Speech](https://en.wikipedia.org/wiki/Part_of_speech)
 - [Syntax](https://en.wikipedia.org/wiki/Syntax)
