@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Irregular Nouns" id="irregular_nouns">
+
+    <table>
+    <tr>
+        <td>Singular Form</td>
+        <td>Plural Form</td>
+    </tr>
+    <tr>
+        <td>bacterium</td>
+        <td>bacteria</td>
+    </tr>
+    <tr>
+        <td>child</td>
+        <td>children</td>
+    </tr>
+    <tr>
+        <td>curriculum</td>
+        <td>curricula</td>
+    </tr>
+    <tr>
+        <td>nucleus</td>
+        <td>nuclei</td>
+    </tr>
+    <tr>
+        <td>phenomenon</td>
+        <td>phenomena/phenomenons</td>
+    </tr>
+    <tr>
+        <td>tooth</td>
+        <td>teeth</td>
+    </tr>
+    </table>
+</topic>
