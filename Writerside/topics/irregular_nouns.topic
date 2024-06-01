@@ -6,49 +6,49 @@
        title="Irregular Nouns" id="irregular_nouns">
 
     <table>
-    <tr>
-        <td>Singular Form</td>
-        <td>Plural Form</td>
-    </tr>
-    <tr>
-        <td>alumna</td>
-        <td>alumnae</td>
-    </tr>
-    <tr>
-        <td>alumnus</td>
-        <td>alumni</td>
-    </tr>
-    <tr>
-        <td>bacterium</td>
-        <td>bacteria</td>
-    </tr>
-    <tr>
-        <td>child</td>
-        <td>children</td>
-    </tr>
-    <tr>
-        <td>curriculum</td>
-        <td>curricula</td>
-    </tr>
-    <tr>
-        <td>ellipsis</td>
-        <td>ellipses</td>
-    </tr>
-    <tr>
-        <td>nucleus</td>
-        <td>nuclei</td>
-    </tr>
-    <tr>
-        <td>parenthesis</td>
-        <td>parentheses</td>
-    </tr>
-    <tr>
-        <td>phenomenon</td>
-        <td>phenomena/phenomenons</td>
-    </tr>
-    <tr>
-        <td>tooth</td>
-        <td>teeth</td>
-    </tr>
+        <tr>
+            <td>Singular Form</td>
+            <td>Plural Form</td>
+        </tr>
+        <tr>
+            <td>alumna</td>
+            <td>alumnae</td>
+        </tr>
+        <tr>
+            <td>alumnus</td>
+            <td>alumni</td>
+        </tr>
+        <tr>
+            <td>bacterium</td>
+            <td>bacteria</td>
+        </tr>
+        <tr>
+            <td>child</td>
+            <td>children</td>
+        </tr>
+        <tr>
+            <td>curriculum</td>
+            <td>curricula</td>
+        </tr>
+        <tr>
+            <td>ellipsis</td>
+            <td>ellipses</td>
+        </tr>
+        <tr>
+            <td>nucleus</td>
+            <td>nuclei</td>
+        </tr>
+        <tr>
+            <td>parenthesis</td>
+            <td>parentheses</td>
+        </tr>
+        <tr>
+            <td>phenomenon</td>
+            <td>phenomena/phenomenons</td>
+        </tr>
+        <tr>
+            <td>tooth</td>
+            <td>teeth</td>
+        </tr>
     </table>
 </topic>
