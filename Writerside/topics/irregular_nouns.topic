@@ -11,6 +11,14 @@
         <td>Plural Form</td>
     </tr>
     <tr>
+        <td>alumna</td>
+        <td>alumnae</td>
+    </tr>
+    <tr>
+        <td>alumnus</td>
+        <td>alumni</td>
+    </tr>
+    <tr>
         <td>bacterium</td>
         <td>bacteria</td>
     </tr>
@@ -23,8 +31,16 @@
         <td>curricula</td>
     </tr>
     <tr>
+        <td>ellipsis</td>
+        <td>ellipses</td>
+    </tr>
+    <tr>
         <td>nucleus</td>
         <td>nuclei</td>
+    </tr>
+    <tr>
+        <td>parenthesis</td>
+        <td>parentheses</td>
     </tr>
     <tr>
         <td>phenomenon</td>
