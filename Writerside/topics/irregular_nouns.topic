@@ -47,12 +47,32 @@
             <td>hypotheses</td>
         </tr>
         <tr>
+            <td>larva</td>
+            <td>larvae</td>
+        </tr>
+        <tr>
+            <td>mitochondrion</td>
+            <td>mitochondria</td>
+        </tr>
+        <tr>
+            <td>mouse</td>
+            <td>mice</td>
+        </tr>
+        <tr>
             <td>parenthesis</td>
             <td>parentheses</td>
         </tr>
         <tr>
             <td>phenomenon</td>
             <td>phenomena/phenomenons</td>
+        </tr>
+        <tr>
+            <td>protozoon/protozoan</td>
+            <td>protozoa</td>
+        </tr>
+        <tr>
+            <td>stoma</td>
+            <td>stomata</td>
         </tr>
         <tr>
             <td>tooth</td>
