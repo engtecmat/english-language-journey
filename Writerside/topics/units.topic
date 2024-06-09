@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Units" id="units">
+
+    <chapter title="Unit of Mass" id="unit-of-mass">
+        <table>
+            <tr>
+                <td>Unit Name</td>
+                <td>Unit Symbol</td>
+                <td>Example</td>
+            </tr>
+            <tr>
+                <td>kilogram</td>
+                <td>kg</td>
+                <td><emphasis>Evan weighs 57kg.</emphasis></td>
+            </tr>
+            <tr>
+                <td>gigaton</td>
+                <td>Gt</td>
+                <td><code-block lang="tex">1Gt = 10^9kg.</code-block><emphasis>In 2023, humans emitted 37.55Gt of carbon dioxide into the atmosphere.</emphasis></td>
+            </tr>
+        </table>
+    </chapter>
+</topic>

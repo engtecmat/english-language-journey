@@ -3,6 +3,7 @@
 
 <instance-profile id="elj" name="English Language Journey" start-page="index.md">
     <toc-element topic="index.md">
+        <toc-element topic="units.topic"/>
         <toc-element topic="style-guide.topic"/>
         <toc-element topic="irregular_verbs.topic"/>
         <toc-element topic="irregular_nouns.topic"/>
