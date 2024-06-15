@@ -4,9 +4,12 @@
 <instance-profile id="elj" name="English Language Journey" start-page="index.md">
     <toc-element topic="index.md">
         <toc-element topic="units.topic"/>
-        <toc-element topic="style-guide.topic"/>
+        <toc-element topic="style_guide.topic"/>
         <toc-element topic="irregular_verbs.topic"/>
         <toc-element topic="irregular_nouns.topic"/>
+        <toc-element topic="proper_nouns.topic"/>
         <toc-element topic="medical_vocabulary.topic"/>
+        <toc-element topic="animalia_kingdom.topic"/>
+        <toc-element topic="plantae_kingdom.topic"/>
     </toc-element>
 </instance-profile>

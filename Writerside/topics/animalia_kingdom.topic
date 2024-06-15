@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Animalia Kingdom" id="animalia_kingdom" help-id="Animalia">
+
+    <table style="none">
+        <tr>
+            <td>polar bear</td>
+            <td>giraffe</td>
+            <td>mussel</td>
+            <td>barnacle</td>
+            <td>desert pupfish</td>
+            <td>sea urchin</td>
+            <td>black bear</td>
+            <td>giant panda</td>
+            <td>blackburnian warbler</td>
+            <td>bay-breasted warbler</td>
+            <td>cape may warbler</td>
+            <td>black-throated green warbler</td>
+            <td>yellow-rumped warbler</td>
+            <td>chimpanzee</td>
+            <td>gray treefrog</td>
+            <td>Cope's gray treefrog</td>
+            <td>medium ground finch (Geospiza fortis)</td>
+            <td>large-billed seed finch</td>
+            <td>mockingbirds</td>
+            <td>wading bird</td>
+            <td>long-legged black-necked stilt</td>
+            <td>northern jacana</td>
+        </tr>
+    </table>
+</topic>
