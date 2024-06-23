@@ -27,6 +27,10 @@
             <td>bacteria</td>
         </tr>
         <tr>
+            <td>cactus</td>
+            <td>cacti</td>
+        </tr>
+        <tr>
             <td>child</td>
             <td>children</td>
         </tr>
@@ -42,11 +46,6 @@
             <td>fungus</td>
             <td>fungi</td>
         </tr>
-        <tr>
-            <td>cactus</td>
-            <td>cacti</td>
-        </tr>
-
         <tr>
             <td>hypothesis</td>
             <td>hypotheses</td>
@@ -94,6 +93,10 @@
         <tr>
             <td>tooth</td>
             <td>teeth</td>
+        </tr>
+        <tr>
+            <td>testis</td>
+            <td>testes</td>
         </tr>
     </table>
 </topic>
