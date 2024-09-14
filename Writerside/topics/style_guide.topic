@@ -11,7 +11,18 @@
             <li><control>I prefer</control> using "adviser" as it aligns with Merriam-Webster Dictionary's primary spelling.</li>
         </list>
     </chapter>
-
+    <chapter collapsible="true" default-state="expanded" title="A Common Structure for Summarizing Advice-seeking Conversation"
+              id="a-common-structure-for-summarizing-advice-seeking-conversation">
+        <p>
+        [Someone] is debating whether [option 1] or [option 2] after [context/situation]. [Adviser] acknowledges it
+        is tough because [reason/challenge]. [Adviser] advises [person] to [recommended action] for a period of time.
+        This would [positive outcome/reason for the advice].
+        </p>
+        <p>
+            About [situation], [someone] is deciding between [option 1] and [option 2]. [Adviser] highlighting
+            [facts], offering [helps], advising [person] to explore both options.
+        </p>
+    </chapter>
     <seealso>
         <category ref="external">
             <a href="https://en.wikipedia.org/wiki/The_Chicago_Manual_of_Style">The Chicago Manual of Style</a>
