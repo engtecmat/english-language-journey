@@ -3,9 +3,65 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
-       title="Irregular Verbs" id="irregular_verbs">
-
-    <table>
+       title="Verbs" id="verbs">
+    <code-block lang="plantuml">
+        @startmindmap
+        * Verbs
+            * Auxiliary Verbs
+            * Modal Verbs
+            * Irregular Verbs
+        @endmindmap
+    </code-block>
+    <chapter title="Auxiliary Verbs" id="auxiliary_verbs">
+        There are three primary auxiliary verbs in English:
+        <list>
+            <li>
+                <control>Be</control>
+                <list>
+                    <li>
+                        <control>Used in continuous tenses:</control>
+                        <list>
+                            <li>George is working on his English Grammar.</li>
+                            <li>Jessica was watching "Shrinking" on Apple TV.</li>
+                        </list>
+                    </li>
+                    <li><control>Used in passive voice:</control> The flowchart was created by a talented colleague.</li>
+                </list>
+            </li>
+            <li>
+                <control>Do</control>
+                <list>
+                    <li><control>Used for questions:</control> Do you like it?</li>
+                    <li><control>Used for negations:</control> I don't know.</li>
+                    <li><control>Used for emphasis:</control> I do believe you.</li>
+                </list>
+            </li>
+            <li>
+                <control>Have</control>
+                <list>
+                    <li>
+                        <control>Used in perfect tenses:</control>
+                        <list>
+                            <li>Resse have established several different types of businesses.</li>
+                            <li>Mckenna had finished her homework by the time her mother got home.</li>
+                        </list>
+                    </li>
+                </list>
+            </li>
+        </list>
+    </chapter>
+    <chapter title="Modal Verbs" id="modal_verbs">
+        <list>
+            <li>Can/Could</li>
+            <li>May/Might</li>
+            <li>Shall/Should</li>
+            <li>Will/Would</li>
+            <li>Must</li>
+            <li>Ought to</li>
+        </list>
+    </chapter>
+    <chapter title="Irregular Verbs" id="irregular_verbs">
+        <table>
         <tr>
             <td>Base Form</td>
             <td>Past Form</td>
@@ -115,4 +171,6 @@
             <td>transferred</td>
         </tr>
     </table>
+    </chapter>
+
 </topic>
