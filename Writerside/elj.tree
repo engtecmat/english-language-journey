@@ -5,6 +5,7 @@
     <toc-element topic="index.md">
         <toc-element topic="units.topic"/>
         <toc-element topic="style_guide.topic"/>
+        <toc-element topic="Inversion.topic"/>
         <toc-element topic="verbs.topic"/>
         <toc-element topic="irregular_nouns.topic"/>
         <toc-element topic="proper_nouns.topic"/>

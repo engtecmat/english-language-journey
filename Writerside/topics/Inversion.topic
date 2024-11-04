@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Inversion" id="Inversion">
+    There are two main types of inversion: when the verb comes before the subject (inversion is often optional), and when the auxiliary comes before the subject and the rest of the verb phrase follows the subject (inversion is usually necessary).
+    <chapter title="Questions" id="questions">
+        This is the most common type of inversion. We invert the subject and auxiliary verb (or modal verb) to form a question.
+        <table>
+            <tr>
+                <td>Statement</td>
+                <td>Question</td>
+            </tr>
+            <tr>
+                <td><control>Evan is</control> going to college next year.</td>
+                <td><control>Is Evan</control> going to college next year?</td>
+            </tr>
+            <tr>
+                <td>Even <control>a middle-age high school dropout can</control> become a mathematician.</td>
+                <td><control>Can a middle-age high school dropout</control> evan become a mathematician?</td>
+            </tr>
+            <tr>
+                <td><control>Nicole</control> keeps a diary.</td>
+                <td><control>Does</control> Nicole keep a diary?</td>
+            </tr>
+            <tr>
+                <td><control>Paul has</control> been a therapist for 30 years.</td>
+                <td><control>Has Paul</control> been a therapist for 30 years?</td>
+            </tr>
+        </table>
+    </chapter>
+    <chapter title="Negative Adverbials at the Beginning of a Sentence" id="negative_adverbials_at_the_beginning_of_a_sentence">
+        Certain negative adverbials, when placed at the begining of a sentence, trigger inversion. This is used for more formal or literary styles.
+        <table>
+            <tr>
+                <td>Common</td>
+                <td>Inversion</td>
+            </tr>
+            <tr>
+                <td>I have <control>never</control> seen a blonde in person.</td>
+                <td><control>Never</control> have I seen a blonde in person.</td>
+            </tr>
+            <tr>
+                <td>It <control>rarely</control> snows in Southern California.</td>
+                <td><control>Rarely</control> does it snow in Southern California.</td>
+            </tr>
+            <tr>
+                <td>Evan <control>seldom</control> goes to a bar.</td>
+                <td><control>Seldom</control> does Evan go to a bar.</td>
+            </tr>
+            <tr>
+                <td>I had <control>hardly/scarcely/barely</control> arrived when the phone rang.</td>
+                <td><control>Hardly/Scarcely/Barely</control> had I arrived when the phone rang.</td>
+            </tr>
+            <tr>
+                <td>Jennifer had<control>no sooner</control> left when the rain started.</td>
+                <td><control>No sooner</control> had Jennifer left than the rain started.</td>
+            </tr>
+            <tr>
+                <td>I <control>only then/only later/only now</control> realized my mistake.</td>
+                <td><control>Only then/Only later/Only now</control> did I realize my mistake.</td>
+            </tr>
+            <tr>
+                <td>You should not open this door <control>under any circumstances</control>.</td>
+                <td><control>Under no circumstances</control> should you open this door.</td>
+            </tr>
+            <tr>
+                <td>I did not suspect him <control>at any time</control>.</td>
+                <td><control>At no time</control> did I suspect him.</td>
+            </tr>
+            <tr>
+                <td>They <control>not only</control> won but also broke the record.</td>
+                <td><control>Not only</control> did they win, but they also broke the record.</td>
+            </tr>
+            <tr>
+                <td>He likes <control>Neither</control> coffee <control>nor</control> tea.</td>
+                <td>He doesn't like coffee, nor does he like tea.</td>
+            </tr>
+            <tr>
+                <td>The landscape was <control>so</control> beautiful that I couldn't stop taking pictures.</td>
+                <td>
+                    <control>So</control> beautiful was the landscape that I couldn't stop taking pictures. <br />
+                    <control>Such</control> was the beauty of the landscape that I coudn't resist taking pictures.
+                </td>
+            </tr>
+            <tr>
+                <td>His anger was <control>such</control> that he stormed out of the room.</td>
+                <td><control>Such</control> was his anger that he stormed out of the room.</td>
+            </tr>
+        </table>
+    </chapter>
+    <chapter title="Conditions Clauses" id="conditions_clauses">
+        In formal contexts, you can omit "if" and invert the subject and auxiliary verb (were, had, should) in conditional clauses.
+        <table>
+            <tr>
+                <td>Common</td>
+                <td>Inversion</td>
+            </tr>
+            <tr>
+                <td>If <control>I were</control> you, I'd accept the offer.</td>
+                <td><control>Were I</control> you, I'd accept the offer.</td>
+            </tr>
+            <tr>
+                <td>If <control>you had</control> called me, I would have come.</td>
+                <td><control>Had you</control> called me I would have come.</td>
+            </tr>
+            <tr>
+                <td>If <control>he should</control> arrive early, tell him to wait.</td>
+                <td><control>Should he</control> arrive early, tell him to wait.</td>
+            </tr>
+        </table>
+    </chapter>
+    <chapter id="after_so_and_neither_nor_for_agreement">
+        <title>After "So" and "Neither/Nor" for Agreement</title>
+        <list>
+            <li><control>So + auxiliary/modal verb + subject:</control> I love pizza, and so does she.</li>
+            <li><control>Neither/Nor + auxiliary/modal verb + subject:</control> I don't like mushroom, and neither does he.</li>
+        </list>
+    </chapter>
+    <chapter title="Locative Inversion" id="locative_inversion">
+        Locative inversion involves inverting the subject and verb when a sentence begins with a locative adverbial.
+        <list>
+
+            <li><control>The basic pattern:</control> Locative Adverb + Verb + Subject</li>
+            <li><control>Locative adverbvials:</control> "here," "there," up ," "down," "in," "out," "away," "back," etc.</li>
+            <li><control>Verb used:</control> The verbs used are usually intranstive verbs of motion or position, such as "come," "go," "run," "walk," "lie," "stand," "sit," "fly," "float," etc. "Be" can be used, especially with a prepositional phrase.</li>
+            <li><control>Subjects:</control> The subject is usually a noun phrase, and often refers to something that is appearing, moving, or located in the specified place. Pronouns as subjects are less common with this inversion. "Here comes he" sounds archaic. You'd more likely hear "Here he comes."</li>
+            <li>
+                <control>Examples:</control>
+                <list>
+                    <li>Here comes the train.</li>
+                    <li>There goes my chance.</li>
+                    <li>Up jumped the cat.</li>
+                    <li>Down fell the rain.</li>
+                    <li>In walked the boss.</li>
+                    <li>Away flew the bird.</li>
+                    <li>Here it is.</li>
+                    <li>There she goes.</li>
+                    <li>Here they come.</li>
+                </list>
+            </li>
+            <li><control>Emphasis and stylistic effect:</control> Locative inversion adds emphasis to the location and the action or appearance of the subject. It often creates a more dramatic or vivid image. It's more common in literary or slightly formal contexts, but is perfectly natural in everyday speech, especially with "here" and "there."</li>
+            <li><control>Not always obligatory:</control> While common, locative inversion isn't grammatically required. You could say "The bus comes here," but it sounds less emphatic and slightly less natural, especially in spoken English.</li>
+        </list>
+
+    </chapter>
+</topic>
