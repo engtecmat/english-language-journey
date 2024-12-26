@@ -94,7 +94,7 @@
               "type": "backlink",
               "state": {
                 "file": "README.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -145,12 +145,12 @@
               "title": "Outline of README"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,7 +162,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48139ea2e1e35a27",
+  "active": "a09dda955ba0bd88",
   "lastOpenFiles": [
     "README.md"
   ]
